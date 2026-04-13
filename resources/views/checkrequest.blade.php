@@ -8,8 +8,11 @@
 </head>
 
 <body>
-    <form action="check" mrthod="post"></form>
-    <input type="text" placeholder="enterpassword">
+
+
+    <form action="check" method="post"></form>
+    <input type="text" placeholder="enter your name">
+    <br>
     <br>
     <br>
     <input type="password" placeholder="enter password">
